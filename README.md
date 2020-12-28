@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fika Ridaul Maulayya</h1>
-<h3 align="center">A Software Engineer 🚀 from Indonesia</h3>
+<h1 align="center">Hi 👋, Software Development </h1>
+<h3 align="center">"PROVIDING SUCCESS, NOT JUST A BUSINESS VALUE. SO WILL IMPACT ON THE CLIENT." 🚀 from Indonesia </h3>
 
 <a href="https://twitter.com/maulayyacyber">
   <img align="left" alt="Fika Ridaul Maulayya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
