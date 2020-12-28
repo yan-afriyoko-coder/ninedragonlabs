@@ -4,7 +4,7 @@
 
 
 - 👨‍ Portfolio at [Here](https://github.com/ninedragonlabs/portofolio/blob/main/README.md)
-- 💻 our web site [www.ninedaronlabs.com](http://ninedragonlabs.com)
+- 💻 Our web site [www.ninedaronlabs.com](http://ninedragonlabs.com)
 - ✉️ How to reach me **ninedragonlabs@gmail.com**
 
 **Languages and Tools:**  
