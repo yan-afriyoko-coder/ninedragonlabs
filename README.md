@@ -5,8 +5,3 @@
 - 💻 Our web site [www.ninedaronlabs.com](http://ninedragonlabs.com)
 - ✉️ How to reach me **info@ninedragonlabs.com**
 
-**Languages and Tools:**  
-
-***********************************
-
-#### Thank You-🙏🏼
