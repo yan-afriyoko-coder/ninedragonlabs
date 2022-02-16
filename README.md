@@ -1,8 +1,6 @@
 <h1>Hi!, We are NineDragonLabs </h1>
 <hr>
-<h3 align="center">"Software Development 🚀 from Indonesia"</h3>
-<br>
+we have a lot of experience with Laravel, Vuejs and React, Our main focus is Blockchain Application.
 
-- 💻 Our web site [www.ninedaronlabs.com](http://ninedragonlabs.com)
-- ✉️ How to reach me **info@ninedragonlabs.com**
+If you wish to contact us, you can reach us at info@ninedragoblabs.com.
 
