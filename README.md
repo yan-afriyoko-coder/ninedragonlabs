@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We are Nine Dragon Labs </h1>
+<h1>Hi 👋, We are Nine Dragon Labs </h1>
 <h3 align="center">"Software Development 🚀 from Indonesia"</h3>
 <br>
 
